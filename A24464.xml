@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of Dundees rendezvouse, and the French &amp; Irish landing place in Scotland viz., the North and West High-lands, with an account of the clans.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24464</idno>
+            <idno type="STC">Wing A204</idno>
+            <idno type="STC">ESTC R1741</idno>
+            <idno type="EEBO-CITATION">12957187</idno>
+            <idno type="OCLC">ocm 12957187</idno>
+            <idno type="VID">96047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of Dundees rendezvouse, and the French &amp; Irish landing place in Scotland viz., the North and West High-lands, with an account of the clans.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Brown ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd, July 17th, 1689"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Graham, John, --  Viscount Dundee, 1648-1689.</term>
+               <term>Highlands (Scotland) --  Description and travel.</term>
+               <term>Scotland --  History --  1689-1745.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96047:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF DUNDEES Rendezvouſe, AND THE FRENCH, &amp; IRISH, LANDING Place IN SCOTLAND. <hi>Viz.</hi> The North, and Weſt, <hi>High-Lands,</hi> with an Acount of the <hi>CLANS.</hi>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licens'd,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> 17th, 1689.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LOchaber,</hi> the preſent Retreat of that Rebel <hi>Dundee,</hi> was Originally and Properly called <hi>Abre,</hi> which according to the Judg<g ref="char:EOLhyphen"/>ment of the Learned <hi>Buchanan,</hi> ſignifies a <hi>Harbour,</hi> for that the Sea comes in there into a large <hi>Bay,</hi> which reſembles a ſtanding Pool, or rather a Lake; whence thoſe of the <hi>Low-Lands</hi> that ſpeak <hi>Engliſh,</hi> call not only that <hi>Bay</hi> of the Sea, but likewiſe the whole Country round it, impro<g ref="char:EOLhyphen"/>perly by the name of <hi>Lochquhabre.</hi> It is bounded with the <hi>Deucaledonian</hi> Sea on the <hi>Weſt</hi> near to the Shire of <hi>Roſs,</hi> on the <hi>North Baldenoch,</hi> and Port of <hi>Murray</hi> on the <hi>Eaſt,</hi> and part of <hi>Athol, Broadalbine,</hi> and <hi>Lorn</hi> from the <hi>South,</hi> to the <hi>South Weſt</hi> Parts; yet a Country as fertile as any in thoſe Parts, pro<g ref="char:EOLhyphen"/>ducing plenty of Corn and Paſture, and very pleaſant, by reaſon of ſhady Woods, and ſtore of Rivers, and Springs, It is as plenteous in Fiſh as moſt Countries in <hi>Scotland,</hi> as well River Fiſh as Sea-Fiſh. It has ridges of almoſt inacceſſible Moun<g ref="char:EOLhyphen"/>tains along it; ſo that 'tis an eaſie matter for a few Perſons to defend themſelves there againſt a great Number af Perſons who are Ignorant of its Avenues. It has been for many years a Neſt of Thieves and Robbers, who uſed to go in Bodies together, into ſeveral of the Neighbouring Coun<g ref="char:EOLhyphen"/>tries, and drive away all their Cattle, and take with them what they could eaſily carry.</p>
+            <p>And becauſe ſome People here are at a loſs, when they meet with the Word <hi>CLAN,</hi> I ſhall briefly inform the Reader, that the Import of that Word is no more than <hi>Family,</hi> or <hi>Tribe;</hi> and the Chief of it is Worſhipped by the Inferior ſort of People, as if he were a Demi-god. And in<g ref="char:EOLhyphen"/>deed formerly they had great reaſon to ſtand by him, for if he was Attainted of Rebellion, all his Vaſſals and Tenents were forfeited with him, as if they had been guilty of the ſame Crime, tho' they were never ſo Innocent of it. But the Convention of <hi>Scotland</hi> hath of late, (to their unſpeakable Commendation,) Repealed that Act as unreaſonable, which has prevented a great ma<g ref="char:EOLhyphen"/>ny's going in to <hi>Dundee,</hi> who, had the former Act been in being, would have been neceſſitated to fol<g ref="char:EOLhyphen"/>low their Chief, ſeeing they had no other ways to preſerve their Eſtate, but their Chiefs over<g ref="char:EOLhyphen"/>coming his Enemies. And this may well be ſup<g ref="char:EOLhyphen"/>poſed to have been the reaſon why none of Duke
+<pb facs="tcp:96047:2"/>
+               <hi>de Gordon</hi>'s Vaſſals and Tenants joined him, they being moſtly Proteſtants, and ſo by that Act of the Convention freed from all the hazard of be<g ref="char:EOLhyphen"/>ing forfeited, which they were formerly under, upon their Superiors being declared a Traitor.</p>
+            <p>The moſt conſiderable of the <hi>Clans</hi> that joined him, were the <hi>Macklenes,</hi> and the <hi>Mackdonalds;</hi> the former, 'tis well known, have lived in Rebel<g ref="char:EOLhyphen"/>lion and Robbery for a great part of the late King <hi>Charles</hi>'s Reign. And as for the latter, they are all, or moſt, <hi>Roman Catholicks,</hi> and 'tis well known, they would do any thing to advance Mo<g ref="char:EOLhyphen"/>ther-Church's Intereſt. But it may not be amiſs to give a brief Deſcription of theſe Two Iſlands, which theſe Two <hi>CLANS</hi> poſſeſt. The <hi>Mack<g ref="char:EOLhyphen"/>leans</hi> Live in the Iſle of <hi>Mut,</hi> 'tis towards the Southermoſt parts of <hi>Lockguhabre,</hi> is Twenty Four Miles long, and of the ſame bredth; it is Crag<g ref="char:EOLhyphen"/>gy, and very Fruitful in Corn; it has many Woods, and great Numbers of Deer, and a ſafe Harbour. On the Weſt it has Two Rivers that abound in Salmon, with others ſmaller, and Two Lakes, in each of which is an Iſland with a Ca<g ref="char:EOLhyphen"/>ſtle in it. The Sea runneth in it, and maketh Four Bays, all which are well ſtored with Her<g ref="char:EOLhyphen"/>ring. This Iſland lies not far from <hi>Argile-ſhire,</hi> which is a Barren Countrey, and bad for an Ar<g ref="char:EOLhyphen"/>my to ſubſiſt in.</p>
+            <p>The other Iſland, in poſſeſſion of the <hi>Mackdo<g ref="char:EOLhyphen"/>nalds,</hi> lies off of the Northern parts of <hi>Lockguha<g ref="char:EOLhyphen"/>bre,</hi> it is called the <hi>Skie;</hi> that is to ſay, a <hi>Wing;</hi> but by the Ancient <hi>Scots</hi> it was called <hi>Skianack,</hi> i. e. <hi>Winged;</hi> for that the Promontories, between which the Sea runs in, repreſent Wings diſplayed. It is the greateſt of all the Iſlands about <hi>Scotland,</hi> being Forty Two Miles in length, and in ſome places Eight, in other Twelve, in bredth; it a<g ref="char:EOLhyphen"/>bounds in Mountains, and theſe with Woods, and the Woods abound in Paſtures; the Valleys are Fruitful of Corn and Cattle, and eſpecially with Horſes. It is Watered with Five Rivers that are repleniſht with Salmon, together with ſe<g ref="char:EOLhyphen"/>veral little ones. The Sea entring it maketh ma<g ref="char:EOLhyphen"/>ny Bays, Three great ones, and Thirteen ſmaller, which afford plenty of Herrings. It has likewiſe a Lake of ſweet Water, and Five Caſtles.</p>
+            <p>For the reſt that joined him, they are ve<g ref="char:EOLhyphen"/>ry inconſiderable, and Perſons who have no Principle at all, but only that they may have occaſion to Plunder the Countreys where they come, it being the delight of many of thoſe ſort of People to Plunder the Countreys where they Live; and were never ſo ſevearly look'd after, as in <hi>Oliver</hi>'s time, tho' it coſt him ſome time, and more Men, before he could Re<g ref="char:EOLhyphen"/>duce them. They are all in general a Barbarous ſort of People, and have little or no ſenſe of Re<g ref="char:EOLhyphen"/>ligion, and if any, it inclines to Popery; they have much the ſame Language with the Native <hi>Iriſh,</hi> there being no greater difference betwixt them, than betwixt the <hi>Engliſh</hi> and <hi>Scotch</hi> Low-Landers.</p>
+            <p>They are Perſons that will not ſtand the ſhock of a Battle in their own Countrey, becauſe they know how to make their eſcape by thoſe Avenues where ſtrangers cannot ſo eaſily follow them, eſpecially Horſe; and as for Foot, few are able to purſue them, they being very ſwift in Run<g ref="char:EOLhyphen"/>ning.</p>
+            <p>We doubt not but we ſhall quickly hear of their Defeat; for the Earl of <hi>Argile</hi> is gone from the <hi>Weſt High-Lands</hi> with a Detachment of their Majeſties Forces, and a great Number of his Vaſ<g ref="char:EOLhyphen"/>ſals and Tenants to Hem them in on the Weſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Brown</hi> on <hi>London-Bridg,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
